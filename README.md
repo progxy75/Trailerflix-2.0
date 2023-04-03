@@ -1,9 +1,27 @@
-# Trailerflix-2.0
+# Showtime
 
-##Setup the process
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
-1. do the git clone
-2. do the npm install - npm i
-3. run the code - npm run start![trailerflix1](https://user-images.githubusercontent.com/83406066/229618052-c5140c5c-25e8-4b7e-852f-4fb307b0e1f9.png)
-![trailerflix2](https://user-images.githubusercontent.com/83406066/229618155-18cf1dad-8584-4fde-8239-91e54138dfac.png)
-![trailerflix3](https://user-images.githubusercontent.com/83406066/229618208-9f77f6c6-a887-4918-86f8-04609bb483a4.png)
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
