@@ -1,10 +1,13 @@
-# Showtime
+# Trailerflix- 2.0![trailerflix1](https://user-images.githubusercontent.com/83406066/229622674-e458a1a2-368f-4ff4-bef4-5a848a482ce7.png)
+![trailerflix2](https://user-images.githubusercontent.com/83406066/229622741-5a70e165-ebd2-4372-bd17-8c06e19b95d2.png)
+![trailerflix3](https://user-images.githubusercontent.com/83406066/229622804-1e0b8cb9-7b05-4bec-9a2d-14110d291daa.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `ng serve` or `npm run start` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
